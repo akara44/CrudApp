@@ -1,0 +1,8 @@
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
+C:\Users\This PC\source\repos\10_DatabaseCrud\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe.config
